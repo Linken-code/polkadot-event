@@ -3,4 +3,4 @@
 substrate入门第5课作业-订阅事件
 
 
-![](https://github.com/rustbomber/polkadotjs_event_sub/blob/main/images/query_event.png)
+![](https://github.com/rustbomber/polkadotjs_event_sub/blob/main/query_event.png)
